@@ -1,0 +1,8 @@
+grey_elephant, Grey Elephant, grey_elephant_image_jpeg.jpg, animals
+red_net, Red Net, red_red_image_jpeg.jpg, colours
+blue_butterfly, Blue Butterfly, blue_butterfly_image_jpeg.jpg, animals
+black_cat, Black Cat, black_cat_image_jpeg.jpg, animals
+brown_dog, Brown Dog, brown_dog_image_jpeg.jpg, animals
+pink_pig, Pink Pig, pink_pig_image_jpeg.jpg, animals
+green_lizard, Green Lizard, green_lizard_image_jpeg.jpg, animals
+white_rabbit, White Rabbit, white_rabbit_image_jpeg.jpg, animals
