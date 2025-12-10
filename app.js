@@ -8,7 +8,7 @@ const CONFIDENCE_THRESHOLD = 0.30;
 // --- VOSK MODEL SETUP ---
 // You will need to download and host a small Vosk model.
 // For testing, we use a placeholder model name. You must add the model file later.
-const MODEL_NAME = 'vosk-model-small-en-us-0.15';
+const MODEL_NAME = 'https://raw.githubusercontent.com/IginaeHuxley/IginaeHuxley_vosk_speech_model/main/vosk-model-small-en-us-0.15';
 const SAMPLE_RATE = 16000;
 
 // --- GLOBAL VARIABLES ---
